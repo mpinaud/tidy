@@ -16,3 +16,18 @@
 .col.xl2.l4.s12.join {
     padding: 0;
 }
+
+.header{
+  margin: auto;
+  margin-top: 215px;
+  text-align:center;
+  width: 50%;
+}
+
+.learn {
+    margin-top: 8px;
+}
+
+.library-button {
+  margin: 15px auto;
+}
